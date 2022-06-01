@@ -26,4 +26,4 @@ The following are changes implemented to the index.html and style.css style shee
 * http://127.0.0.1:5500/Develop/index.html
 
 # Screenshot
-![alt text](/assets/images/2022-06-01(4).png)
+![alt text](assets/images/2022-06-01(4).png)
