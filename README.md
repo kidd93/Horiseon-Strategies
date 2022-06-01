@@ -3,7 +3,7 @@
 # Horiseon strategies
 The following are changes implemented to the index.html and style.css style sheets.
 
-* Change the title from website to Horiseon.
+* Changed the title from website to Horiseon.
 
 * Switched from <div> to <section> in lines 11, 26, 28, 50, 51, and 73. To separate each of the sections better.
 
