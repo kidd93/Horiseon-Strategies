@@ -26,4 +26,4 @@ The following are changes implemented to the index.html and style.css style shee
 * 
 
 # Screenshot
-![alt text](/assets/images/screenshot.png)
+![alt text](/assets/images/2022-06-01(1).png-Shortcut.lnk)
