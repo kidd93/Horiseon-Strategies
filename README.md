@@ -26,4 +26,4 @@ The following are changes implemented to the index.html and style.css style shee
 * 
 
 # Screenshot
-![alt text]("C:\Users\kelsi\Desktop\horiseon-strategies\assets\images\2022-06-01 (1).png")
+![alt text]("C:\Users\kelsi\Desktop\horiseon-strategies\assets\images\2022-06-01(1).png")
