@@ -23,7 +23,7 @@ The following are changes implemented to the index.html and style.css style shee
 
 # URL link to Horiseon website.
 
-* http://127.0.0.1:5500/urban-octo-telegram/Develop/index.html
+* 
 
 # Screenshot
 ![alt text](/assets/images/screenshot.png)
