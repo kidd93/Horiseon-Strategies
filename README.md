@@ -26,4 +26,4 @@ The following are changes implemented to the index.html and style.css style shee
 * 
 
 # Screenshot
-![alt text](..%5C..%5COneDrive%5CPictures%5CScreenshots%5C2022-06-01%20(1).png)
+![alt text](2022-06-01(1).png)
