@@ -26,4 +26,4 @@ The following are changes implemented to the index.html and style.css style shee
 *  https://kidd93.github.io/Horiseon-Strategies/
 
 # Screenshot
-![alt text](assets\images\2022-06-01-(1).png)
+![alt text](assets\images\Screenshot.png)
